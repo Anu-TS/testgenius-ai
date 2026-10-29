@@ -1,0 +1,6 @@
+{
+  "name": "TestGenius AI — Automated Testing & ML Model QA Platform",
+  "description": "AI-powered automated software testing and custom machine learning model QA platform. Generate Pytest, Playwright, and Requests suites, execute automated tests, detect failures, test custom ML models, and export production-ready reports and Python repositories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
